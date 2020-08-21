@@ -1,5 +1,5 @@
 ## Interface: 20400
-## Title: !DebugTools
+## Title: DebugTools
 ## Notes: Tools for developing addons (Blizzard UI Debug Tools)
 ## Author: Blizzard Entertainment
 ## Special Thanks: Iriel, Kirov, Esamynn
