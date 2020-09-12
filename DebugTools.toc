@@ -4,7 +4,7 @@
 ## Author: Blizzard Entertainment
 ## Special Thanks: Iriel, Kirov, Esamynn
 ## Version: 1.0
-## Dependencies: !Compatibility
+## Dependencies: Compatibility
 ## LoadOnDemand: 1
 
 Compatibility.lua
